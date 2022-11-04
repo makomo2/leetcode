@@ -1,5 +1,5 @@
 # LeetCode
-https://leetcode.com/
+https://leetcode.com/R2k9mHE5/
 
 ## LeetCodeとは
 LeetCode is the best platform to help people practice solving coding problems and prepare for technical interviews. The main users are software engineers. LeetCode has over 1,900 questions covering many different programming concepts
